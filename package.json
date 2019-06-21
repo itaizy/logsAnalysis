@@ -151,7 +151,7 @@
     "marked": ">=0.3.18",
     "minimatch": ">=3.0.2",
     "mkdirp": "0.5.1",
-    "moment": "2.13.0",
+    "moment": ">=2.19.3",
     "moment-timezone": "0.5.4",
     "ngreact": "0.3.0",
     "no-ui-slider": "1.2.0",
